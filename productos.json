@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "title": "Taza de Porcelana",
+        "description": "Taza elegante de porcelana blanca",
+        "code": "TZA001",
+        "price": 10.99,
+        "status": true,
+        "stock": 50,
+        "category": "Tazas",
+        "thumbnails": [
+            "img/taza_porcelana_1.jpg",
+            "img/taza_porcelana_2.jpg"
+        ]
+    },
+    {
+        "id": "2",
+        "title": "Vaso de Vidrio",
+        "description": "Vaso transparente de vidrio resistente",
+        "code": "VAS002",
+        "price": 5.99,
+        "status": true,
+        "stock": 100,
+        "category": "Vasos",
+        "thumbnails": [
+            "img/vaso_vidrio_1.jpg",
+            "img/vaso_vidrio_2.jpg"
+        ]
+    },
+    {
+        "id": "3",
+        "title": "Tenedor de Acero Inoxidable",
+        "description": "Tenedor de alta calidad hecho de acero inoxidable",
+        "code": "TEN003",
+        "price": 2.49,
+        "status": true,
+        "stock": 200,
+        "category": "Cubiertos",
+        "thumbnails": [
+            "img/tenedor_acero_1.jpg",
+            "img/tenedor_acero_2.jpg"
+        ]
+    },
+    {
+        "id": "4",
+        "title": "Cuchillo de Chef",
+        "description": "Cuchillo afilado de chef para cortar y picar",
+        "code": "CUCH004",
+        "price": 12.99,
+        "status": true,
+        "stock": 75,
+        "category": "Cuchillos",
+        "thumbnails": [
+            "img/cuchillo_chef_1.jpg",
+            "img/cuchillo_chef_2.jpg"
+        ]
+    },
+    {
+        "id": "5",
+        "title": "Cuchara de Servir",
+        "description": "Cuchara resistente de servir alimentos",
+        "code": "CUCH005",
+        "price": 1.99,
+        "status": true,
+        "stock": 150,
+        "category": "Cucharas",
+        "thumbnails": [
+            "img/cuchara_servir_1.jpg",
+            "img/cuchara_servir_2.jpg"
+        ]
+    }
+]
